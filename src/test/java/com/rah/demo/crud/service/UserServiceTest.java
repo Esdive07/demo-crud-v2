@@ -16,7 +16,7 @@ import com.rah.demo.crud.entity.DireccionEntity;
 import com.rah.demo.crud.entity.UserEntity;
 import com.rah.demo.crud.repository.UserRepository;
 
-public class ServiceTest {
+public class UserServiceTest {
 
 	private UserService userService;
 	@Mock
